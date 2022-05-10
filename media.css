@@ -1,0 +1,1026 @@
+/* @media (min-width: 1201px) and (max-width: 2560px){
+} */
+
+@media (min-width: 1024px) and (max-width: 1100px){
+    .stuffed_toys_cards > .card {
+        padding: 32px 27px;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 340px;
+    }
+
+    .galery_block > .photos > div{
+        width: 95%;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 56px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 895px) and (max-width: 1023px){
+
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 180px;
+        height: 180px;
+        margin-right: unset;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards > .card {
+        padding: 32px 12px;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 240px;
+    }
+
+    .subscribe_block {
+        padding: 46px 24px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+    }
+
+    .galery_block > .photos > div{
+        width: 95%;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 56px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 894px){
+
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    
+    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 180px;
+        height: 180px;
+        margin-right: unset;
+    }
+
+    .type_of_toys {
+        flex-wrap: wrap;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 30px;
+    }
+
+    .subscribe_block > .second_block{
+        display: flex;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 240px;
+    }
+
+    .subscribe_block {
+        padding: 46px 24px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+    }
+
+    .galery_block > .photos {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 0;
+    }
+
+    .galery_block > .photos > div{
+        width: 33%;
+    }
+
+    .galery_block > .photos > div:nth-child(1),
+    .galery_block > .photos > div:nth-child(2),
+    .galery_block > .photos > div:nth-child(3){
+        display: flex;
+        align-items: flex-end;
+        margin-bottom: 40px;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 56px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+    .subscribe_block > .first_block > .form_sent > .form_sent_container {
+        transform: translateY(1600px);
+    }
+
+}
+@media (min-width: 595px) and (max-width:767px){
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    
+    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 180px;
+        height: 180px;
+        margin-right: unset;
+    }
+
+    .type_of_toys {
+        flex-wrap: wrap;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 30px;
+    }
+
+    .our_story{
+        background-position-x: -625px;
+    }
+
+    .subscribe_block > .second_block{
+        display: flex;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 400px;
+    }
+
+    .subscribe_block {
+        padding: 46px 24px;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+        width: 40%;
+    }
+
+    .galery_block > .photos {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 0;
+    }
+
+    .galery_block > .photos > div{
+        width: 33%;
+    }
+
+    .galery_block > .photos > div:nth-child(1),
+    .galery_block > .photos > div:nth-child(2),
+    .galery_block > .photos > div:nth-child(3){
+        display: flex;
+        align-items: flex-end;
+        margin-bottom: 10px;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 56px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+    .footer > .wrapper > .footer_hr{
+        margin: 26px 0 20px 0;
+    }
+    
+    .footer_first_line > .navigation {
+        margin: 0 auto;
+        display: flex;
+        order: 1;
+    }
+
+    .footer_first_line {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+    
+    .subscribe_block > .first_block > .form_sent > .form_sent_container {
+        transform: translateY(1600px);
+    }
+
+    @keyframes fly{
+    
+        100%{
+            transform: translate(300px, -200px);
+            transform-origin: bottom 50%;
+            
+        }
+    }
+
+}
+@media (min-width: 425px) and (max-width: 594px){
+
+    header > .wrapper {
+        height: 38px;
+    }
+
+    .subscribe_block > .first_block > .form_sent > .form_sent_container {
+        transform: translateY(1600px);
+        width: 400px;
+        height: 250px;
+    }
+
+    .under_header,
+    .first_header_info,
+    .second_header_info{
+        display: none;
+    }
+    
+    .burger_btn{
+        display: flex;
+    }
+
+    .logo{
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+        z-index: 10;
+    }
+
+    .logo > span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        transform: translateX(100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+    }
+
+    p.open span {
+        transform: translateX(0);
+    }
+
+    span::before { 
+        display: inline-block;
+        content: attr(data-content);
+        color: white;
+        transform: translateX(-100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+      }
+
+      p.open span::before {
+        transform: translateX(0);
+    }
+
+    .shopping_now{
+        height: 540px;
+        position: relative;
+        z-index: 0;
+    }
+
+    .shopping_now_container > h1 {
+        font-size: 30px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    
+    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 180px;
+        height: 180px;
+        margin-right: unset;
+    }
+
+    .type_of_toys {
+        flex-wrap: wrap;
+        margin-top: 100px;
+    }
+
+    .stuffed_toys_cards > .card {
+        padding: 18px 0px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 16px;
+    }
+
+    .our_story{
+        background-position-x: -725px;
+    }
+
+    .our_story > .our_story_container > p:nth-child(3) {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .avalible_access > h2 {
+        font-size: 26px;
+    }
+
+    .avalible_access_under_container {
+        row-gap: 30px;
+        flex-wrap: wrap;
+    }
+
+    .avalible_access_under_container > .first_block {
+        order: 1;
+    }
+
+    .subscribe_block > .second_block{
+        display: flex;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 304px;
+    }
+
+    .subscribe_block{
+        padding: 46px 24px;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .subscribe_block > .first_block{
+        align-items: center;
+    }
+
+    .subscribe_block > .first_block > div {
+        width: 63px;
+        height: 53px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+        width: 40%;
+    }
+
+    .galery_block > .photos {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 0;
+        margin-bottom: 40px;
+    }
+
+    .galery_block > .photos > div{
+        width: 33%;
+    }
+
+    .galery_block > .photos > div:nth-child(1),
+    .galery_block > .photos > div:nth-child(2),
+    .galery_block > .photos > div:nth-child(3)
+    {
+        display: flex;
+        align-items: flex-end;
+        margin-bottom: 10px;
+    }
+
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 56px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+    .footer > .wrapper > .footer_hr{
+        margin: 26px 0 20px 0;
+    }
+    
+    .footer_first_line > .navigation {
+        margin: 0 auto;
+        display: flex;
+        order: 1;
+    }
+
+    .footer_first_line {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    footer > .wrapper > .footer_hr {
+        margin: 26px 0 16px 0;
+    }
+
+    footer > .wrapper > .footer_second_line {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        row-gap: 10px;
+    }
+
+    @keyframes fly{
+    
+        100%{
+            transform: translate(200px, -100px);
+            transform-origin: bottom 50%;
+            
+        }
+    }
+}
+@media(min-width: 375px) and (max-width: 424px){
+
+    header > .wrapper {
+        height: 38px;
+    }
+
+    .subscribe_block > .first_block > .form_sent > .form_sent_container {
+        transform: translateY(2300px);
+        width: 350px;
+        height: 220px;
+    }
+
+    .under_header,
+    .first_header_info,
+    .second_header_info{
+        display: none;
+    }
+    
+    .burger_btn{
+        display: flex;
+    }
+
+    .logo{
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+        z-index: 10;
+    }
+
+    .logo > span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        transform: translateX(100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+    }
+
+    p.open span {
+        transform: translateX(0);
+    }
+
+    span::before { 
+        display: inline-block;
+        content: attr(data-content);
+        color: white;
+        transform: translateX(-100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+      }
+
+      p.open span::before {
+        transform: translateX(0);
+    }
+
+    .shopping_now{
+        height: 540px;
+        position: relative;
+        z-index: 0;
+    }
+
+    .shopping_now_container > h1 {
+        font-size: 30px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    
+    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 180px;
+        height: 180px;
+        margin-right: unset;
+    }
+
+    .type_of_toys {
+        flex-wrap: wrap;
+        margin-top: 100px;
+    }
+
+    .stuffed_toys_cards > .card {
+        padding: 24px 64px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 60px;
+    }
+
+    .our_story{
+        background-position-x: -825px;
+    }
+
+    .our_story > .our_story_container > p:nth-child(3) {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .avalible_access > h2 {
+        font-size: 26px;
+    }
+
+    .avalible_access_under_container {
+        row-gap: 30px;
+        flex-wrap: wrap;
+    }
+
+    .avalible_access_under_container > .first_block {
+        order: 1;
+    }
+
+    .subscribe_block > .second_block{
+        display: flex;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 304px;
+    }
+
+    .subscribe_block{
+        padding: 46px 24px;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .subscribe_block > .first_block{
+        align-items: center;
+    }
+
+    .subscribe_block > .first_block > div {
+        width: 63px;
+        height: 50px;
+    }
+
+    .subscribe_block > .first_block > p {
+        font-size: 23px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+        width: 40%;
+    }
+
+    .galery_block > .photos {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 0;
+        margin-bottom: 40px;
+    }
+
+    .galery_block > .photos > div{
+        width: 50%;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 0 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+    .footer > .wrapper > .footer_hr{
+        margin: 26px 0 20px 0;
+    }
+    
+    .footer_first_line > .navigation {
+        margin: 0 auto;
+        display: flex;
+        order: 1;
+    }
+
+    .footer_first_line {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    footer > .wrapper > .footer_hr {
+        margin: 26px 0 16px 0;
+    }
+
+    .footer_first_line > .navigation > a {
+        font-size: 14px;
+    }
+
+    footer > .wrapper > .footer_second_line {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        row-gap: 10px;
+    }
+
+    @keyframes fly{
+    
+        100%{
+            transform: translate(200px, -100px);
+            transform-origin: bottom 50%;
+            
+        }
+    }
+}
+
+@media (min-width: 320px) and (max-width: 374px){
+
+    .subscribe_block > .first_block > .form_sent > .form_sent_container {
+        transform: translateY(2300px);
+        width: 300px;
+        height: 200px;
+    }
+
+    .under_header,
+    .first_header_info,
+    .second_header_info{
+        display: none;
+    }
+    
+    .burger_btn{
+        display: flex;
+    }
+
+    header > .wrapper {
+        height: 38px;
+    }
+
+    .logo{
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+        z-index: 10;
+        font-size: 20px;
+    }
+
+    .logo > span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        transform: translateX(100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+    }
+
+    p.open span {
+        transform: translateX(0);
+    }
+
+    span::before { 
+        display: inline-block;
+        content: attr(data-content);
+        color: white;
+        transform: translateX(-100%);
+        transition: transform 275ms ease;
+        transition: all .5s;
+      }
+
+      p.open span::before {
+        transform: translateX(0);
+    }
+
+    .shopping_now{
+        height: 540px;
+        position: relative;
+        z-index: 0;
+    }
+
+    .shopping_now_container {
+        max-width: 280px;
+        padding: 54px 26px;
+    }
+
+    .shopping_now_container > h1 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys {
+        background: #FFC12C;    
+    }
+
+    .type_of_toys > .stuffed_type_of_toys > img,
+    .type_of_toys > .wooden_type_of_toys > img{
+        transform: unset;
+        width: 140px;
+        height: 130px;
+        margin-right: unset;
+    }
+
+    .type_of_toys {
+        flex-wrap: wrap;
+        margin-top: 100px;
+    }
+
+    .stuffed_animals_info > p {
+        font-size: 18px;
+    }
+
+    .stuffed_toys_cards > .card {
+        padding: 24px 64px;
+    }
+
+    .type_of_toys > .stuffed_type_of_toys, 
+    .type_of_toys > .wooden_type_of_toys {
+        align-items: center;
+        padding-top: unset;
+        padding-right: 0;
+        padding-left: 0;
+        column-gap: 10px;
+    }
+
+    .stuffed_toys_cards {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 60px;
+    }
+
+    .our_story{
+        background-position-x: -825px;
+    }
+
+    .our_story > .our_story_container > p:nth-child(3) {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .avalible_access > h2 {
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .avalible_access_under_container {
+        row-gap: 30px;
+        flex-wrap: wrap;
+        margin-top: 50px;
+    }
+
+    .avalible_access_under_container > .first_block {
+        order: 1;
+    }
+
+    .subscribe_block > .second_block{
+        display: flex;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .subscribe_block > .second_block > input:first-child {
+        width: 240px;
+    }
+
+    .subscribe_block{
+        padding: 46px 24px;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .subscribe_block > .first_block{
+        align-items: center;
+    }
+
+    .subscribe_block > .first_block > div {
+        width: 63px;
+        height: 50px;
+    }
+
+    .subscribe_block > .first_block > p {
+        font-size: 17px;
+        line-height: 18px;
+    }
+
+    .subscribe_block > .second_block > input:nth-child(2){
+        padding: 12px 18px;
+        width: 50%;
+    }
+
+    .galery_block > .photos {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 0;
+        margin-bottom: 40px;
+    }
+
+    .galery_block > .photos > div{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .galery_block > .photos > div > img{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .galery_block > h3 {
+        margin: 18px 0 30px 0;
+    }
+
+    .galery_block {
+        margin: 120px 0 100px 0;
+    }
+    
+    .type_of_toys > .wooden_type_of_toys > div > p,
+    .type_of_toys > .stuffed_type_of_toys > div > p{
+        font-size: 24px;
+    }
+
+    .footer > .wrapper > .footer_hr{
+        margin: 26px 0 20px 0;
+    }
+    
+    .footer_first_line > .navigation {
+        flex-wrap: wrap;
+        margin: 0 auto;
+        display: flex;
+        order: 1;
+    }
+
+    .footer_first_line {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    footer > .wrapper > .footer_hr {
+        margin: 26px 0 16px 0;
+    }
+    
+    .footer_first_line > .navigation > a{
+        margin-left: unset;
+        font-size: 14px;
+    }
+
+    .footer_first_line > .navigation > a:not(:first-child) {
+        margin-left: 12px;
+    }
+
+    footer > .wrapper > .footer_second_line {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        row-gap: 10px;
+    }
+
+    @keyframes fly{
+    
+        100%{
+            transform: translate(200px, -100px);
+            transform-origin: bottom 50%;
+            
+        }
+    }
+}

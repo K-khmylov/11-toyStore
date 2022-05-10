@@ -1,0 +1,131 @@
+.burger_btn.open > .burger_line:nth-child(2){
+    transition: all .2s linear;
+    opacity: 0;
+}
+
+.burger_btn > .burger_line:nth-child(2){
+    transition: all .2s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(4){
+    transition: all .1s linear;
+    opacity: 0;
+}
+
+.burger_btn > .burger_line:nth-child(4){
+    transition: all .5s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(6){
+    transition: all .5s linear;
+    opacity: 0;
+}
+
+.burger_btn > .burger_line:nth-child(6){
+    transition: all .3s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(8){
+    opacity: 0;
+    transition: all .5 linear;
+}
+
+.burger_btn > .burger_line:nth-child(8){
+    transition: all .7s linear;
+}
+
+/* ================================================================ */
+
+
+.burger_btn.open > .burger_line:nth-child(1){
+    transition: all .6s linear;
+    background-color: #FFFFFF;
+}
+
+.burger_btn > .burger_line:nth-child(1){
+    transition: all .6s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(3){
+    transition: all .4s linear;
+     background-color: #FFFFFF;
+}
+
+.burger_btn > .burger_line:nth-child(3){
+    transition: all .5s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(5){
+    transition: all .3s linear;
+     background-color: #FFFFFF;
+}
+
+.burger_btn > .burger_line:nth-child(5){
+    transition: all .7s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(7){
+    background-color: #FFFFFF;
+    transition: all .3s linear;
+}
+
+.burger_btn > .burger_line:nth-child(7){
+    transition: all .5s linear;
+}
+
+.burger_btn.open > .burger_line:nth-child(9){
+    background-color: #FFFFFF;
+    transition: all .5s linear;
+}
+
+.burger_btn > .burger_line:nth-child(9){
+    transition: all .5s linear;
+}
+
+/* ===================================================== */
+
+.burger_menu.open > .burger_links > a,
+.burger_menu.open > .burger_links > p{
+    animation: link .6s  forwards;
+}
+
+@keyframes link {
+
+    0%{
+        transform: translateX(600px);
+    }
+
+    100%{
+        transform: translateX(0);
+    }   
+}
+
+.burger_menu.open > .burger_links > a:first-child{
+    animation-delay: .1s;
+    transform: translateX(600px);
+}
+
+.burger_menu.open > .burger_links > a:nth-child(2){
+    animation-delay: .2s;
+    transform: translateX(600px);
+}
+
+.burger_menu.open > .burger_links > a:nth-child(3){
+    animation-delay: .3s;
+    transform: translateX(600px);
+}
+
+.burger_menu.open > .burger_links > a:nth-child(4){
+    animation-delay: .4s;
+    transform: translateX(600px);
+}
+
+.burger_menu.open > .burger_links > .call_us{
+    animation-delay: .5s;
+    transform: translateX(600px);
+}
+
+.burger_menu.open > .burger_links > .email{
+    animation-delay: .6s;
+    transform: translateX(600px);
+}
